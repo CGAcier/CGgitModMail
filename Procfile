@@ -1,1 +1,1 @@
-worker: node modmailbot-pm2.json
+worker: npm ci
