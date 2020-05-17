@@ -1,2 +1,1 @@
-worker: npm ci
-worker: npm start
+worker: npm ci & npm start & wait -n
