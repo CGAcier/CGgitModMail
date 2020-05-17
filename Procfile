@@ -1,2 +1,2 @@
 worker: npm ci
-worker npm start
+worker: npm start
